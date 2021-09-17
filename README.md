@@ -1,12 +1,29 @@
-## Oi, Eu sou o Hugo
+### Oi Devs, Sejam Bem-vindos 👋
 
-<div>
-  <a href="https://github.com/hihugo1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hihugo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hihugo1&layout=compact&langs_count=7&theme=dark"/>
 
-</div>
-  
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
+```js
+import Desenvolvedor from 'hihugo1';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Hugo Sergio Alves de Souza';
+  area    = 'Developer FrontEnd';
+  faculdade = FATECPG - Faculdade de Técnologia de Praia Grande
+  local = 'Praia Grande/SP';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['HTML', 'CSS', 'SASS', 'JAVASCRIPT', 'PHP'];
+  bibliotecas  = ['ReactJS', 'JQUERY'];
+  frameworks = ['Bootstrap', 'Tailwind', 'VueJS'];
+}
+```
+
+## **Linguagens e Ferramentas:**  
+</div>  
   <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,9 +32,20 @@
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hugo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Hugo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  
 </div>
-  
+
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/hihugo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hihugo1&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/hihugo1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hihugo1&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
   ##
  
 <div> 
