@@ -9,8 +9,8 @@
 import Desenvolvedor from 'hihugo1';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Hugo Sergio Alves de Souza';
-  area    = 'Developer FrontEnd';
+  nome = 'Hugo Sergio Alves de Souza';
+  area = 'Developer FrontEnd';
   faculdade = "FATECPG - Faculdade de Técnologia de Praia Grande";
   local = 'Praia Grande/SP';
 }
