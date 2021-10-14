@@ -20,7 +20,11 @@ class Skills extends Desenvolvedor {
   bibliotecas  = ['ReactJS'];
   frameworks = ['Bootstrap', 'Tailwind', 'NextJs', 'Vue'];
 }
+
 ```
+
+<i>Em processo de aprendizagem, mas com conhecimento apto para trabalhar/estagiar com Html, Css, Javascript, Bootstrap, Tailwind, Sass <br>
+As demais linguagens foram passadas durante a faculdade, ou atividades extras curriculares, tenho a prática em todas elas</i>
 
 ## **Linguagens e Ferramentas:**  
 <div>  
@@ -41,12 +45,9 @@ class Skills extends Desenvolvedor {
  <a target="_blank"><img src="https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=Ruby&logoColor=white" target="_blank"></a>
  <a target="_blank"><img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a>
  <a target="_blank"><img src="https://img.shields.io/badge/-Php-purple?style=for-the-badge&logo=Php&logoColor=white" target="_blank"></a> 
+ <a target="_blank"><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white" target="_blank"></a> 
  <a target="_blank"><img src="https://camo.githubusercontent.com/50d43af9b68ef63015963f40aac894898d7c655ed221f0bce5013787a68aba26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d344643303844" target="_blank"></a>
-
-  
-  
-  
-
+ <a target="_blank"><img src="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" target="_blank"></a>
 </div>
 
 
