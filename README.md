@@ -11,7 +11,8 @@ class SobreMim extends Desenvolvedor {
   area = 'Developer FrontEnd';
   faculdade = "FATECPG - Faculdade de Técnologia de Praia Grande";
   local = 'Praia Grande/SP';
-  oqueAmaFazer = 'Programar', watch['verSeries', 'verFilmes'], 'ouvirMusica';
+  oqueAmaFazer = 'Programar', 
+  passaTempo = watch['verSeries', 'verFilmes'], 'ouvirMusica';
 }
 
 class Skills extends Desenvolvedor {
