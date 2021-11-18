@@ -1,7 +1,7 @@
-
+## Hi 👋, I'm Hugo Sergio
 ## 🚀💻 Mais sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS-970-80.jpg.webp" min-width="300px" max-width="300px" width="350px" align="right" alt="JavaScript">
 
 ```js
 import Desenvolvedor from 'hihugo1';
@@ -11,6 +11,7 @@ class SobreMim extends Desenvolvedor {
   area = 'Developer FrontEnd';
   faculdade = "FATECPG - Faculdade de Técnologia de Praia Grande";
   local = 'Praia Grande/SP';
+  oqueAmaFazer = 'Programar', watch['verSeries', 'verFilmes'], 'ouvirMusica';
 }
 
 class Skills extends Desenvolvedor {
