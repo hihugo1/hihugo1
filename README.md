@@ -1,5 +1,3 @@
-### Olá Devs, Sejam Bem-vindos 👋
-
 
 ## 🚀💻 Mais sobre mim
 
