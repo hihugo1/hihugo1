@@ -40,6 +40,7 @@ class Skills extends Desenvolvedor {
       <a target="_blank"><img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" target="_blank"></a>
         <a target="_blank"><img src="https://camo.githubusercontent.com/2fae549118710fd8284be62292b9e9a6cdd561cb50d46f35938b08dc3fc2c4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" target="_blank"></a>  
  <a target="_blank"><img src="https://img.shields.io/badge/-Ruby-red?style=for-the-badge&logo=Ruby&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=Spring&logoColor=white" target="_blank"></a>
  <a target="_blank"><img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a>
  <a target="_blank"><img src="https://img.shields.io/badge/-Php-purple?style=for-the-badge&logo=Php&logoColor=white" target="_blank"></a> 
  <a target="_blank"><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white" target="_blank"></a> 
