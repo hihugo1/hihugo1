@@ -16,7 +16,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML', 'CSS', 'SASS', 'JAVASCRIPT', 'PHP'];
+  linguagens  = ['JAVA', 'JAVASCRIPT', 'PHP'];
   bibliotecas  = ['ReactJS'];
   frameworks = ['Bootstrap', 'Tailwind', 'NextJs'];
 }
